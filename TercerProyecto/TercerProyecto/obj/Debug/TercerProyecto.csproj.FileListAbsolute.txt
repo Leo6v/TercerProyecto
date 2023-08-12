@@ -1,0 +1,11 @@
+C:\Users\leo6v\OneDrive - Universidad Hispanoamericana\Leonardo Vargas Valverde\III Cuatri Ing Informatica\Estructura de datos\TercerProyecto\TercerProyecto\bin\Debug\TercerProyecto.exe.config
+C:\Users\leo6v\OneDrive - Universidad Hispanoamericana\Leonardo Vargas Valverde\III Cuatri Ing Informatica\Estructura de datos\TercerProyecto\TercerProyecto\bin\Debug\TercerProyecto.exe
+C:\Users\leo6v\OneDrive - Universidad Hispanoamericana\Leonardo Vargas Valverde\III Cuatri Ing Informatica\Estructura de datos\TercerProyecto\TercerProyecto\bin\Debug\TercerProyecto.pdb
+C:\Users\leo6v\OneDrive - Universidad Hispanoamericana\Leonardo Vargas Valverde\III Cuatri Ing Informatica\Estructura de datos\TercerProyecto\TercerProyecto\obj\Debug\TercerProyecto.csproj.AssemblyReference.cache
+C:\Users\leo6v\OneDrive - Universidad Hispanoamericana\Leonardo Vargas Valverde\III Cuatri Ing Informatica\Estructura de datos\TercerProyecto\TercerProyecto\obj\Debug\TercerProyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\leo6v\OneDrive - Universidad Hispanoamericana\Leonardo Vargas Valverde\III Cuatri Ing Informatica\Estructura de datos\TercerProyecto\TercerProyecto\obj\Debug\TercerProyecto.Form1.resources
+C:\Users\leo6v\OneDrive - Universidad Hispanoamericana\Leonardo Vargas Valverde\III Cuatri Ing Informatica\Estructura de datos\TercerProyecto\TercerProyecto\obj\Debug\TercerProyecto.Properties.Resources.resources
+C:\Users\leo6v\OneDrive - Universidad Hispanoamericana\Leonardo Vargas Valverde\III Cuatri Ing Informatica\Estructura de datos\TercerProyecto\TercerProyecto\obj\Debug\TercerProyecto.csproj.GenerateResource.cache
+C:\Users\leo6v\OneDrive - Universidad Hispanoamericana\Leonardo Vargas Valverde\III Cuatri Ing Informatica\Estructura de datos\TercerProyecto\TercerProyecto\obj\Debug\TercerProyecto.csproj.CoreCompileInputs.cache
+C:\Users\leo6v\OneDrive - Universidad Hispanoamericana\Leonardo Vargas Valverde\III Cuatri Ing Informatica\Estructura de datos\TercerProyecto\TercerProyecto\obj\Debug\TercerProyecto.exe
+C:\Users\leo6v\OneDrive - Universidad Hispanoamericana\Leonardo Vargas Valverde\III Cuatri Ing Informatica\Estructura de datos\TercerProyecto\TercerProyecto\obj\Debug\TercerProyecto.pdb
